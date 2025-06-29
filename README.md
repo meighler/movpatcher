@@ -4,7 +4,7 @@ Automatically patches one not such an insignificant mov instruction required for
 Although very unlikely, this tool may produce corrupted binaries.  
 I am not responsible for any issues caused by the usage of this tool, it's experimental and I will not be held accountable if anything happens. Use at your own risk.
 
-Thanks [Mineek] for the idea and help in implementing it!  
+Thanks [Mineek](https://github.com/mineek) for the idea and help in implementing it!  
 
 
 ## Attributions
